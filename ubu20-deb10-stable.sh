@@ -28,7 +28,7 @@ echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━�
 echo -e "  Developer » VALLSTORE࿐${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
 echo -e "  Pembuat : ${green}Vallstore࿐® ${NC}"
-echo -e "  ©NO COPY SCRPT MEMEK TEMBEM࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  ©NO COPY SCRIP MEMEK TEMBEM࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2

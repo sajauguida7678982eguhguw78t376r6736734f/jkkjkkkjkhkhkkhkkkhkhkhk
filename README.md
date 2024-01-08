@@ -11,8 +11,8 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
 
-## INSTALL SCRIPT 
-Masukkan perintah dibawah!࿐
+## INSTALL SCRIPT !!!!!
+Masukkan perintah dibawah!!!!࿐
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/ovva123/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
@@ -21,6 +21,16 @@ Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi y
 ```
 wget -q https://raw.githubusercontent.com/ovva123/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x update.sh && ./update.sh
 ```
+## FIX BUG ATASI HAPROXY EROR
+Masukkan perintah dibawah jika terdapat eror pada satus haproxy
+```
+cat /etc/xray/xray.key /etc/xray/xray.crt > /etc/haproxy/hap.pem
+```
+Setelah sertifikat dan kunci ssl berhasil dipindahkan, restart haproxynya
+```
+sudo systemctl restart haproxy
+```
+Kembali ke menu utama dan cek apakah haproxy sudah berjalan dengan normal
 
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)

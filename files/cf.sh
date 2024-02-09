@@ -57,10 +57,10 @@ function domaincf() {
 echo ""
 echo ""
 echo ""
-read -rp "Input Sub Domain Kamu (Contoh: store): " -e sub
-DOMAIN=vall.biz.id
+read -rp "Input Sub Domain Kamu (Contoh: store111): " -e sub
+DOMAIN=myvall.biz.id
 echo $sub > /root/cfku
-#SUB_DOMAIN=${sub}.vall.biz.id
+#SUB_DOMAIN=${sub}.myvall.biz.id
 dns=${sub}.${DOMAIN}
 dns2=*.${dns}
 NS_DOMAIN=ns.${dns}

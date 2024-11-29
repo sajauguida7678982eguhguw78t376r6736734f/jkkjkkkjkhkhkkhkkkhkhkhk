@@ -18,12 +18,12 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT !!!!!
 Masukkan perintah dibawah!!!!࿐
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/ovva123/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/sajauguida7678982eguhguw78t376r6736734f/jkkjkkkjkhkhkkhkkkhkhkhk/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/ovva123/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/sajauguida7678982eguhguw78t376r6736734f/jkkjkkkjkhkhkkhkkkhkhkhk/GM/ubu20-deb10-stable.sh && chmod +x update.sh && ./update.sh
 ```
 ## FIX BUG ATASI HAPROXY EROR
 Masukkan perintah dibawah jika terdapat eror pada satus haproxy

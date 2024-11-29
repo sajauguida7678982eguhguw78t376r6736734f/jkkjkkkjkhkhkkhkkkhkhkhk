@@ -54,7 +54,7 @@ fi
 
 # // IP Address Validating
 if [[ $IP == "" ]]; then
-    echo -e "${EROR} IP Address ( ${YELLOW}Not Detected${NC} )"
+    echo -e "${OK} IP Address ( ${green}$IP${NC} )"
 else
     echo -e "${OK} IP Address ( ${green}$IP${NC} )"
 fi
